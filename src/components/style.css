@@ -1,0 +1,13 @@
+.Liste{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin:40px;
+}
+.carte{
+    margin:1%;
+    min-height: 10rem;
+    .entete{
+        height: 6rem;
+    }
+}
